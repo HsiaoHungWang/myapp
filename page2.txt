@@ -1,0 +1,11 @@
+git init => .git 資料夾
+
+git add <file> => 加入到暫存區(Staging Area)
+git commit -m "message" => 將暫存區的所有檔案加入到儲存庫(Repository)
+
+git status
+
+git log --oneline
+
+
+
